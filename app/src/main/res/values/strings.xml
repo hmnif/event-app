@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">EventApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_calendar">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_event_detail">[Offline Event] Baparekraf Developer Day 2024</string>
+    <string name="owner_name_detail_event">Diselenggarakan oleh :\nKementerian Pariwisata dan Ekonomi Kreatif Republik Indonesia</string>
+    <string name="desc_detail_event">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet
+        facilisis est. Nullam pulvinar pellentesque tempor. Nam ac diam quis diam tempus aliquet vitae vitae mi. Nullam
+        rutrum porta metus, vitae feugiat augue convallis eu. Nunc ut vestibulum nunc. Sed interdum consectetur arcu,
+        non mattis velit blandit quis. In euismod efficitur dui, nec gravida est tincidunt a. Vivamus ut erat sed purus
+        sagittis malesuada. Phasellus varius facilisis mi, vel bibendum lacus blandit ac. Pellentesque eu justo ut
+        libero tempus pulvinar. Nulla a leo fringilla, aliquet arcu in, efficitur ante. Sed id arcu posuere, maximus
+        quam quis, ullamcorper ante. Etiam in tempor dui. Quisque gravida elementum ex. Vestibulum ante ipsum primis in
+        faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque ipsum mauris, accumsan id commodo sit amet,
+        consequat a metus. Pellentesque tempor tincidunt maximus. Aenean vel pellentesque leo. Aliquam quis dolor in
+        risus maximus maximus. Suspendisse et nulla arcu. Praesent vitae tristique tortor. Mauris blandit, velit at
+        condimentum faucibus, justo neque maximus libero, at dapibus odio enim et diam. Proin efficitur sem risus, non
+        luctus nulla scelerisque eget. Sed tempus vitae est vitae dapibus. Proin sit amet tortor vel ipsum tempus
+        eleifend vel venenatis odio. Quisque placerat non nisl.
+
+
+        facilisis est. Nullam pulvinar pellentesque tempor. Nam ac diam quis diam tempus aliquet vitae vitae mi. Nullam
+        rutrum porta metus, vitae feugiat augue convallis eu. Nunc ut vestibulum nunc. Sed interdum consectetur arcu,
+        non mattis velit blandit quis. In euismod efficitur dui, nec gravida est tincidunt a. Vivamus ut erat sed purus
+        sagittis malesuada. Phasellus varius facilisis mi, vel bibendum lacus blandit ac. Pellentesque eu justo ut
+        libero tempus pulvinar. Nulla a leo fringilla, aliquet arcu in, efficitur ante. Sed id arcu posuere, maximus
+        quam quis, ullamcorper ante. Etiam in tempor dui. Quisque gravida elementum ex. Vestibulum ante ipsum primis in
+        faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque ipsum mauris, accumsan id commodo sit amet,
+        consequat a metus. Pellentesque tempor tincidunt maximus. Aenean vel pellentesque leo. Aliquam quis dolor in
+        risus maximus maximus. Suspendisse et nulla arcu. Praesent vitae tristique tortor. Mauris blandit, velit at
+        condimentum faucibus, justo neque maximus libero, at dapibus odio enim et diam. Proin efficitur sem risus, non
+        luctus nulla scelerisque eget. Sed tempus vitae est vitae dapibus. Proin sit amet tortor vel ipsum tempus
+    </string>
+    <string name="content_desc_cover_detail">Gambar cover</string>
+    <string name="title_dicoding_event">Dicoding Event</string>
+    <string name="title_finished_event">Finished Event</string>
+    <string name="title_calendar_event">Upcoming Event</string>
+    <string name="btn_text_register">Register</string>
+    <string name="ctn_cover">Cover</string>
+    <string name="search_hint_text">Search</string>
+    <string name="home_title">Home</string>
+    <string name="search_title">Cari</string>
+</resources>
